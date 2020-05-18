@@ -1,7 +1,7 @@
 /*	Author: lab
  *  Partner(s) Name:Dragon Ni
  *	Lab Section:22
- *	Assignment: Lab #8  Exercise #1
+ *	Assignment: Lab #8  Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
